@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.adl.catalogue",
+    "sha256_cert_fingerprints": [
+      "5D:E3:6B:22:0F:76:B5:42:AF:5A:B0:89:90:5D:EF:B7:2D:9F:66:41:68:71:25:92:55:8B:A5:C7:89:65:04:20"
+    ]
+  }
+}]
